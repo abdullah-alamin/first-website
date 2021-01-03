@@ -1,4 +1,7 @@
 body {
-  background-color: orange;
+  background-color: teal;
   color: white;
+}
+img {
+  width: 100%;
 }
